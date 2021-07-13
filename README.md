@@ -1,5 +1,5 @@
-### Who Am I
-- 🎓 Dongguk University , Multimedia Engineering (2018.03~ )
+### Hi there 👋
+- 🎓 Dongguk University , Multimedia Engineering
 - 🌃 Seoul Tourism Organization. public data Intern (2021.07~ )
 <!--
 **minjuu/minjuu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
