@@ -1,5 +1,11 @@
 ### Hi there 👋
+### Who Am I
+- 🌱 I’m currently learning Node, React, Algorithm
+- 🥇 I majored in Multimedia Engineering
 
+### Experience
+- 🎓 Dongguk University , Multimedia Engineering (2018.03~ )
+- 🌃 SEOUL TOURISM ORGANIZATION. public data Intern (2021.07~ )
 <!--
 **minjuu/minjuu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
