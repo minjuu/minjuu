@@ -1,5 +1,6 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=minjuu&count_private=true&show_icons=true&theme=buefy)
 ### Hi there 👋
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=minjuu&count_private=true&show_icons=true&theme=buefy)
+### Experience
 - 🎓 Dongguk University , Multimedia Engineering
 - 🌃 Seoul Tourism Organization. public data Intern (2021.07~ )
 <!--
