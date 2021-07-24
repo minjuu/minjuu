@@ -2,7 +2,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=minjuu&count_private=true&show_icons=true&theme=buefy)
 ### Experience
 - 🎓 Dongguk Univ. Multimedia Engineering
-###- 🌃 Seoul Tourism Organization. Public Data Intern 
+<!--- 🌃 Seoul Tourism Organization. Public Data Intern -->
 <!--
 **minjuu/minjuu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
