@@ -7,6 +7,7 @@
 
 <br/>
 
+<p align="center">
 
 ## ✨  ABOUT ME ✨
 
@@ -44,5 +45,5 @@
 ## ⚡️ Language ⚡️
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minjuu&layout=compact)](https://github.com/minjuu)
-
+</p>
 
