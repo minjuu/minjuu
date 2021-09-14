@@ -37,6 +37,6 @@ Dongguk Univ. Multimedia engineering
 #### ⚡️ Language ⚡️
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minjuu&hide=jupyternotebook&layout=compact&exclude_repo=Battle_Of_Blood,deeplearning_building)](https://github.com/minjuu) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minjuu&hide=jupyternotebook&layout=compact&exclude_repo=Battle_Of_Blood,deeplearning_building,gogofriend)](https://github.com/minjuu) 
 
 </div>
