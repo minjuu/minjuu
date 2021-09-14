@@ -1,8 +1,7 @@
-<!-- 
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=ffc4cf&height=150&section=header&text=KangMinjoo&fontSize=60"/>
-</p> -->
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=ffc4cf&height=90&section=header&text=MinjooKang&fontSize=60"/>
+</p> 
 <div align="center">
 
 #### ✨  ABOUT ME ✨
