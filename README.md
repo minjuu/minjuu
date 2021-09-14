@@ -2,8 +2,7 @@
   
 ### ✨  ABOUT ME ✨
 <br/>
-
-🎓 Dongguk Univ. Multimedia engineering
+Hi I'm Minjoo 😊
 
 <br/>  
 
