@@ -28,7 +28,7 @@
 <br/>
 
 <img src="https://img.shields.io/badge/Java-311C87?style=flat-square&logo=java&logoColor=white"/>
-![GraphQL](https://img.shields.io/badge/Swift-E10098?style=flat-square&logo=swift&logoColor=white)
+<img src="https://img.shields.io/badge/Swift-E10098?style=flat-square&logo=swift&logoColor=white"/>
 <img src="https://img.shields.io/badge/Tensorflow-47A248?style=flat-square&logo=tensorflow&logoColor=white"/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
 <img src="https://img.shields.io/badge/Pytorch-003545?style=flat-square&logo=Pytorch&logoColor=white"/>
