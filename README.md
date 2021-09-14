@@ -1,8 +1,8 @@
 <div align="center">
   
 ### ✨  ABOUT ME ✨
-  
-#### Majoring in Multimedia Engineering
+<br>
+##### Majoring in Multimedia Engineering
   
 <br>
 <br/>  
