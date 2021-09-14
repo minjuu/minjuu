@@ -1,11 +1,9 @@
 
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=F7A3A2&height=250&section=header&text=Kang Minju&fontSize=70" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=F7A3A2&height=250&section=header&text=Kang Minju&fontSize=60" />
 </p>
-  
-
-<br/>
+ 
 <div align="center">
 
 #### ✨  ABOUT ME ✨
