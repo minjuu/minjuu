@@ -1,14 +1,14 @@
-
+<!-- 
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=wave&color=ffc4cf&height=150&section=header&text=KangMinjoo&fontSize=60"/>
-</p>
+</p> -->
 <div align="center">
 
 #### ✨  ABOUT ME ✨
 <br/>
 
-👩🏻‍💻 Dongguk Univ. Multimedia engineering
+Dongguk Univ. Multimedia engineering
 
 <br/>  
 
