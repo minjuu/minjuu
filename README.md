@@ -3,7 +3,7 @@
 #### ✨  ABOUT ME ✨
 <br/>
 
-🎓Dongguk Univ. Multimedia engineering
+🎓 Dongguk Univ. Multimedia engineering
 
 <br/>  
 
