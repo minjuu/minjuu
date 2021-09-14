@@ -32,7 +32,7 @@
 <img src="https://img.shields.io/badge/Tensorflow-47A248?style=flat-square&logo=tensorflow&logoColor=white"/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
 <img src="https://img.shields.io/badge/Pytorch-7A1FA2?style=flat-square&logo=Pytorch&logoColor=white"/>
-<img src="https://img.shields.io/badge/Sqlite3-44A833?style=flat-square&logo=Sqlite3&logoColor=white"/>  
+<img src="https://img.shields.io/badge/Sqlite3-FFB71B?style=flat-square&logo=Sqlite3&logoColor=white"/>  
   
 </p>
 
