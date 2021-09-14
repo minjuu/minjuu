@@ -1,11 +1,11 @@
 <div align="center">
   
 ### ✨  ABOUT ME ✨
-<br/>
+<br>
 
 🎓 Dongguk Univ. Multimedia engineering
 
-<br>  
+<br/>  
 
 
 ### ⚒  SKILLS ⚒
@@ -17,7 +17,7 @@
 <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jQuery&logoColor=white"/>
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>
   
-<br>
+<br/>
 
 <img src="https://img.shields.io/badge/Java-EF2D5E?style=flat-square&logo=java&logoColor=white"/>
 <img src="https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=swift&logoColor=white"/>
@@ -28,7 +28,7 @@
   
 </p>
 
-<br>
+<br/>
 
 ### ⚡️ Language ⚡️
 
