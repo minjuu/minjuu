@@ -28,7 +28,7 @@ Dongguk Univ. Multimedia engineering
 <img src="https://img.shields.io/badge/Tensorflow-47A248?style=flat-square&logo=tensorflow&logoColor=white"/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
 <img src="https://img.shields.io/badge/Pytorch-0170FE?style=flat-square&logo=Pytorch&logoColor=white"/>
-<img src="https://img.shields.io/badge/Sqlite3-273347?style=flat-square&logo=Sqlite3&logoColor=white"/>  
+<img src="https://img.shields.io/badge/Sqlite3-273347?style=flat-square&logo=Sqlite&logoColor=white"/>  
   
 </p>
 
