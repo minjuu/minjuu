@@ -1,7 +1,7 @@
 
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=3DDC84&height=300&section=header&text=Kang Minju&fontSize=70" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=F7A3A24&height=270&section=header&text=Kang Minju&fontSize=70" />
 </p>
   
 
