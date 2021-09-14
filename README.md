@@ -1,10 +1,10 @@
 <div align="center">
-  
+<!--   
 ### ✨  ABOUT ME ✨
 <br/>
-Hi there, I'm minju 😊
+
 <br>
-<br/>  
+<br/>   -->
 
 
 ### ⚒  SKILLS ⚒
