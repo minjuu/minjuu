@@ -1,11 +1,11 @@
 
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=F7A3A2&height=250&section=header&text=KangMinjoo&fontSize=60" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=F7A3A2&height=250&section=header&text=KangMinju&fontSize=60" />
 </p>
  
 <div align="center">
-
+<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fstateaward&count_bg=%236AB9FF&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=profile&edge_flat=false"/>
 #### ✨  ABOUT ME ✨
 <br/>
 
