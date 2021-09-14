@@ -37,6 +37,6 @@ Dongguk Univ. Multimedia engineering
 #### ⚡️ Language ⚡️
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minjuu&layout=compact&hide=c#)](https://github.com/minjuu) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minjuu&layout=compact&hide=&hide=jupyter%20notebook,C#)](https://github.com/minjuu) 
 
 </div>
