@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=ffc4cf&height=90&section=header&text=KangMinjoo&fontSize=45"/>
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=ffc4cf&height=90&section=header&text=KangMinjoo&fontSize=41"/>
 </p> 
 <div align="center">
 
