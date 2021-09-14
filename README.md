@@ -2,8 +2,8 @@
   
 ### ✨  ABOUT ME ✨
 <br/>
-Hi I'm Minjoo 😊
-
+Hi there, I'm Minjoo 😊
+<br>
 <br/>  
 
 
