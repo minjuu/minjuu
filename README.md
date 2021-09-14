@@ -2,7 +2,9 @@
   
 ### ✨  ABOUT ME ✨
 <br/>
-Majoring in Multimedia Engineering 🌱
+  
+#### Majoring in Multimedia Engineering 🌱
+  
 <br>
 <br/>  
 
