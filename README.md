@@ -1,8 +1,7 @@
 
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=1&height=150&section=header&text=KangMinjoo&fontSize=60" />
-  //ffc4cf
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=ffc4cf&height=150&section=header&text=KangMinjoo&fontSize=60"/>
 </p>
 
 <div align="center">
