@@ -2,7 +2,7 @@
   
 ### ✨  ABOUT ME ✨
 <br/>
-Hi there, I'm Minjoo 😊
+Hi there, I'm minju 😊
 <br>
 <br/>  
 
