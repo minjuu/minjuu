@@ -6,11 +6,9 @@
   
 
 <br/>
-
-<p align="center">
+<div align="center">
 
 ## ✨  ABOUT ME ✨
-</p>
 <br/>
 
 - 👩🏻‍💻 Dongguk Univ. Multimedia engineering
@@ -46,4 +44,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minjuu&layout=compact)](https://github.com/minjuu)
 
-
+</
