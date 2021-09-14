@@ -1,7 +1,3 @@
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=ffc4cf&height=90&section=header&text=KangMinjoo&fontSize=42&fontColor=2f2f2f"/>
-</p> 
 <div align="center">
 
 #### ✨  ABOUT ME ✨
