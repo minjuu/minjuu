@@ -1,6 +1,6 @@
 <div align="center">
   
-#### ✨  ABOUT ME ✨
+### ✨  ABOUT ME ✨
 <br/>
 
 🎓 Dongguk Univ. Multimedia engineering
@@ -8,7 +8,7 @@
 <br/>  
 
 
-#### ⚒  SKILLS ⚒
+### ⚒  SKILLS ⚒
 
 <p>
 <img src="https://img.shields.io/badge/HTML5-1572B6?style=flat-square&logo=HTML5&logoColor=white"/>
@@ -30,7 +30,7 @@
 
 <br/>
 
-#### ⚡️ Language ⚡️
+### ⚡️ Language ⚡️
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minjuu&hide=jupyter%20notebook,c%23,asp.net,shaderlab,hlsl,cuda&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
   
