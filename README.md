@@ -5,7 +5,6 @@
 </p>
  
 <div align="center">
-<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fstateaward&count_bg=%236AB9FF&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=profile&edge_flat=false"/></br>
 
 #### ✨  ABOUT ME ✨
 <br/>
