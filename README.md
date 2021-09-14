@@ -1,10 +1,10 @@
 <div align="center">
-<!--   
+  
 ### ✨  ABOUT ME ✨
 <br/>
-
+Majoring in Multimedia Engineering 👩‍🦰
 <br>
-<br/>   -->
+<br/>  
 
 
 ### ⚒  SKILLS ⚒
