@@ -28,7 +28,7 @@ Majoring in Multimedia Engineering 🎓
 
 </p>
 
-<br/>
+<br/> -->
 <!-- 
 ### ⚡️ Language ⚡️
 
