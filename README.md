@@ -1,4 +1,4 @@
-<div align="center">
+<!-- <div align="center">
   
 ### ✨  ABOUT ME ✨
   
@@ -34,4 +34,4 @@ Majoring in Multimedia Engineering 🎓
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minjuu&hide=jupyter%20notebook,c%23,asp.net,shaderlab,hlsl,cuda&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
   
-</div>
+</div> -->
