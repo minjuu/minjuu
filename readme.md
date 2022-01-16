@@ -3,8 +3,7 @@
 ### ✨  ABOUT ME ✨
   
 </br>
-Majoring in Multimedia Engineering 🎓</br>
-Web & Mobile Developer</br>
+Web & Mobile Developer 👩‍💻</br>
   
 </br>
 
