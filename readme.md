@@ -3,12 +3,11 @@
 ### ✨  ABOUT ME ✨
   
 </br>
-Majoring in Multimedia Engineering 🎓
+Majoring in Multimedia Engineering 🎓</br>
 Web & Mobile Developer
   
-<br>
-<br/>  
-###⚒  SKILLS ⚒
+</br>
+### ⚒  SKILLS ⚒
 <p>
 <img src="https://img.shields.io/badge/HTML5-1572B6?style=flat-square&logo=HTML5&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS3-E34F26?style=flat-square&logo=CSS3&3logoColor=white"/>
