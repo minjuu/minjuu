@@ -6,7 +6,6 @@
 Web & Mobile Developer👩‍💻</br>
   
 </br>
-
 ### ⚒  SKILLS ⚒ </br>
 
 <p>
@@ -14,6 +13,7 @@ Web & Mobile Developer👩‍💻</br>
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>
   <img src="https://img.shields.io/badge/Flask-1572B6?style=flat-square&logo=Flask&logoColor=white"/>
   <img src="https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=swift&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Android-a4c639?style=flat-square&logo=android&logoColor=white"/>
 
   <br/>
   <img src="https://img.shields.io/badge/Java-EF2D5E?style=flat-square&logo=java&logoColor=white"/>
