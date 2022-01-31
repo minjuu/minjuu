@@ -17,7 +17,7 @@ Web & Mobile Developer👩‍💻</br>
 
   <br/>
   <img src="https://img.shields.io/badge/Java-EF2D5E?style=flat-square&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-T27B350?style=flat-square&logo=Python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-0053a0?style=flat-square&logo=Python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Tensorflow-47A248?style=flat-square&logo=tensorflow&logoColor=white"/>
   <img src="https://img.shields.io/badge/Pytorch-0170FE?style=flat-square&logo=Pytorch&logoColor=white"/>
   <img src="https://img.shields.io/badge/Android-a4c639?style=flat-square&logo=android&logoColor=white"/>
