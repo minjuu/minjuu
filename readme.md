@@ -3,7 +3,7 @@
 ### ✨  ABOUT ME ✨
 
 </br>
-Web & Mobile Developer👩‍💻</br>
+iOS Developer👩‍💻</br>
 </br>
 
 ### ⚒  SKILLS ⚒
