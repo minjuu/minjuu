@@ -1,10 +1,10 @@
 <div align="center">
-  <h2>iOS Developer 👩‍💻</h2>
+  <p>iOS Developer 👩‍💻<p>
   <p>아키텍처 설계와 데이터 안정성을 고민하는 iOS 개발자 강민주입니다.</p>
 
   <br/>
 
-  ### ⚒ SKILLS ⚒
+  ### SKILLS
   <p>
     <img src="https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=swift&logoColor=white"/>
     <img src="https://img.shields.io/badge/SwiftUI-0053a0?style=flat-square&logo=swift&logoColor=white"/>
