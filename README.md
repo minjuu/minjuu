@@ -1,5 +1,3 @@
-<div align="center">
-### ✨  ABOUT ME ✨
 </br>
 iOS Developer👩‍💻</br>
 </br>
