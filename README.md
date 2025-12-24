@@ -1,7 +1,7 @@
 </br>
 iOS Developer👩‍💻</br>
 </br>
-### ⚒  SKILLS ⚒
+⚒  SKILLS ⚒
 </br>
 <p>
   <img src="https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=swift&logoColor=white"/>
