@@ -4,10 +4,10 @@
 
   ### ⚒ SKILLS ⚒
   <p>
-    <img src="https://img.shields.io/badge/RxSwift-B7178C?style=flat-square&logo=reactivex&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Combine-0053a0?style=flat-square&logo=apple&logoColor=white"/>
     <img src="https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=swift&logoColor=white"/>
     <img src="https://img.shields.io/badge/SwiftUI-0053a0?style=flat-square&logo=swift&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Combine-0053a0?style=flat-square&logo=apple&logoColor=white"/>    
+    <img src="https://img.shields.io/badge/RxSwift-B7178C?style=flat-square&logo=reactivex&logoColor=white"/>
     <br/>
     <img src="https://img.shields.io/badge/Tensorflow-47A248?style=flat-square&logo=tensorflow&logoColor=white"/>
     <img src="https://img.shields.io/badge/Pytorch-0170FE?style=flat-square&logo=Pytorch&logoColor=white"/>
