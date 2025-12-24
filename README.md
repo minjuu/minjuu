@@ -1,21 +1,16 @@
-</br>
-iOS Developer👩‍💻</br>
-</br>
-⚒  SKILLS ⚒
-</br>
-<p>
-  <img src="https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=swift&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Flask-1572B6?style=flat-square&logo=Flask&logoColor=white"/>
-  <br/>
-  <img src="https://img.shields.io/badge/Java-EF2D5E?style=flat-square&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-0053a0?style=flat-square&logo=Python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Tensorflow-47A248?style=flat-square&logo=tensorflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pytorch-0170FE?style=flat-square&logo=Pytorch&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Android-a4c639?style=flat-square&logo=android&logoColor=white"/>
-</p>
-<br/>
-<!-- ### ⚡️ Language ⚡️
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minjuu&hide=jupyter%20notebook,c%23,asp.net,shaderlab,hlsl,cuda&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
+<div align="center">
+  <h2>iOS Developer 👩‍💻</h2>
+  <p>아키텍처 설계와 데이터 안정성을 고민하는 iOS 개발자 강민주입니다.</p>
+
+  ### ⚒ SKILLS ⚒
+  <p>
+    <img src="https://img.shields.io/badge/RxSwift-B7178C?style=flat-square&logo=reactivex&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Combine-0053a0?style=flat-square&logo=apple&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=swift&logoColor=white"/>
+    <img src="https://img.shields.io/badge/SwiftUI-0053a0?style=flat-square&logo=swift&logoColor=white"/>
+    <br/>
+    <img src="https://img.shields.io/badge/Tensorflow-47A248?style=flat-square&logo=tensorflow&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Pytorch-0170FE?style=flat-square&logo=Pytorch&logoColor=white"/>
+    <img src="https://img.shields.io/badge/TFLite-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
+  </p>
 </div>
